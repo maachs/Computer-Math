@@ -1,2 +1,0 @@
-# Used exclusively to plot computed residual histories.
-matplotlib>=3.5,<4
